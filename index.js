@@ -1,9 +1,7 @@
 // Write your code here
-let var1 = 31
-let var2 = 2
-const multiply = var1 * var2
-const random = Math.random()
-
-const mod = 9 % 5
-
-const max = Math.max(1, 2, 20)
+var num1 = 2;
+var num2 = 31;
+var multiply = num1*num2;
+var random = Math.random();
+var mod = 24%5;
+var max = Math.max(1,2,3,5,8,13,20);
